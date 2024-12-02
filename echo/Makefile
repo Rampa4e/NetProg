@@ -1,5 +1,5 @@
-target =  daytime
-sources = daytime.cpp 
+target =  echo
+sources = echo.cpp 
 CC = g++
 CCFlags = -Wall
 LDLIBS = -lcrypto++
